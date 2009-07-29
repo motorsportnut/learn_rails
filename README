@@ -1,0 +1,12 @@
+This is the sample application for the Learning Rails free online course in Ruby on Rails.
+
+See http://www.learningrails.com for more information.
+
+This version tests and runs on Rails 2.3.2.
+
+See LICENSE for license terms (MIT).
+
+Contributions From:
+
++ Chris Schmitt (chrisjschmitt@github) - Aug 26, 2008 - Honor subpages sort by position field
+
